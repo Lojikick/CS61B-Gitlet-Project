@@ -1,0 +1,7 @@
+# Basic initialization
+> init
+<<<
++ h.txt wug.txt
+> add h.txt
+<<<
+E .gitlet

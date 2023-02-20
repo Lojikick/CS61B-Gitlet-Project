@@ -1,0 +1,7 @@
+# Basic initialization
+> init
+<<<
++ g.txt notwug.txt
+> add g.txt
+<<<
+E .gitlet
